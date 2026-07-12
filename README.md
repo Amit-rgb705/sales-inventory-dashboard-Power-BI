@@ -3,7 +3,7 @@
 An interactive Power BI dashboard built to analyze sales, cost, and profit data across multiple product categories, brands, and regions — enabling data-driven business decisions.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](first_project.png)
 
 ## 🔍 Overview
 This is a personal project created to practice end-to-end dashboard development in Power BI — from data cleaning to building an interactive, business-ready report.
