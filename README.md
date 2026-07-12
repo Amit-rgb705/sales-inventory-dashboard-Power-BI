@@ -4,7 +4,7 @@ An interactive Power BI dashboard built to analyze sales, cost, and profit data 
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Screenshot](screenshot.png)
-* *
+*first project.png *
 
 ## 🔍 Overview
 This is a personal project created to practice end-to-end dashboard development in Power BI — from data cleaning to building an interactive, business-ready report.
@@ -33,7 +33,7 @@ This is a personal project created to practice end-to-end dashboard development 
 - `screenshot.png` – Dashboard preview image
 
 ## 🚀 How to View
-1. Download the `.pbix` file
+1. Download the `fist_project.pbix` file
 2. Open it in Power BI Desktop (free download from Microsoft)
 3. Explore the interactive filters and visuals
 
