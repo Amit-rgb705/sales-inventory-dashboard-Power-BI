@@ -3,7 +3,7 @@
 An interactive Power BI dashboard built to analyze sales, cost, and profit data across multiple product categories, brands, and regions — enabling data-driven business decisions.
 
 ## 🖼️ Dashboard Preview
-[![first project.png]
+![Dashboard Screenshot](first_project.png)
 
 ## 🔍 Overview
 This is a personal project created to practice end-to-end dashboard development in Power BI — from data cleaning to building an interactive, business-ready report.
@@ -29,7 +29,7 @@ This is a personal project created to practice end-to-end dashboard development 
 
 ## 📂 Files in this Repository
 - `first_project.pbix` – Power BI project file
-- `first project.png` – Dashboard preview image
+- `first_project.png` – Dashboard preview image
 
 ## 🚀 How to View
 1. Download the `fist_project.pbix` file
