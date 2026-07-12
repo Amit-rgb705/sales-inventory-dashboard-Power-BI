@@ -23,7 +23,6 @@ This is a personal project created to practice end-to-end dashboard development 
 ## 📈 Key Metrics Displayed
 - Total Sales: 99M
 - Total Cost: 76M
-- Total Profit: 23M
 - Total Transactions: 5,095
 - Quantity Sold: 13K
 
